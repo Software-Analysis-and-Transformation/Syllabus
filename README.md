@@ -10,13 +10,26 @@ With the rise of mobile computing, cybersecurity, and big data, the need for sof
 
 ## Course description
 
-This course introduces the foundations of algorithms that analyze and manipulate software. Refactoring, the process of reorganizing software for an improved design while preserving its original functionality, concepts and techniques will also be introduced, along with several type inferencing techniques. The course will involve hands-on experience in creating algorithms and tools. Topics to be covered may include intermediate program representations, control- and data-flow analyses, type inference, object-orientation, pointer/alias analysis, side-effect analysis, refactoring, and software patterns.
+This course introduces the foundations of algorithms that analyze and manipulate software. Refactoring, the process of reorganizing software for an improved design while preserving its original functionality, concepts and techniques will also be introduced, along with several type inferencing techniques. The course will involve hands-on experience in creating algorithms and tools. 
 
 ## List of topics
 
 The topics may include but are not limited to:
 
+- intermediate program representations, including Abstract Syntax Trees (ASTs)
+- tree traversal algorithms
+- control- and data-flow analyses
+- type inference
+- object-orientation
+- pointer/alias analysis
+- side-effect analysis
+- refactoring
+- object-oriented software patterns
+
 ## Prerequisites
+
+- good programming skills in an object-oriented programming language such as C++ or Java.
+- CSc 71010 (Programming Languages) or equivalent or an introductory course on compilers would be useful. Otherwise, students may review the first two chapters of Compilers: Principles, Techniques and Tools by Aho, Sethi and Ullman.
 
 ## Learning objectives
 
