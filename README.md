@@ -36,6 +36,13 @@ Friday Schedule | April 11
 Withdrawal Deadline | April 16
 Final Exam | ? (May 18-24)
 
+## Academic Violations
+
+The classroom environment employed will be that of a professional one. While students may discuss course materials and assignments with others, any submitted work in this course must be the result of *individual* effort *only*. Students are *strongly* advised to read the following resources regarding academic integrity:
+
+- [Student Handbook](http://www.gc.cuny.edu/CUNY_GC/media/CUNY-Graduate-Center/PDF/Publications/Student_Handbook_web.pdf)
+- [Avoiding and Detecting Plagiarism](https://www.gc.cuny.edu/CUNY_GC/media/CUNY-Graduate-Center/PDF/Publications/AvoidingPlagiarism.pdf)
+
 ## Rationale
 
 With the rise of mobile computing, cybersecurity, and big data, the need for software engineering tools to assist developers in cultivating and managing the complexity of large software systems has never been more evident, giving way to such tools as [GitHub](http://github.com), [Pivotal](http://pivotal.io), and [SonarQube](http://www.sonarqube.org). Software analysis and transformation has a variety of uses, including performance optimization (in compilers), decompiling, obfuscating, verifying program correctness, domain-specific programming languages, and software understanding, evolution, debugging, and testing in software engineering tools.  The material will be useful for students working in compilers, developer tools, systems, software engineering, and programming languages.
