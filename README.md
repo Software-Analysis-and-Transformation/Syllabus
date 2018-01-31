@@ -83,7 +83,7 @@ The learning goals include:
 - good working knowledge of various enterprise-level software design patterns and their relationship to refactorings.
 
 ## Assessment
-Several homework assignments involving technical problems related to the class lectures and reading material.Completion of the homework will benefit the students, particularly in their technical skills and problem solving. These will account for 25% of the overall grade.
+Several homework assignments involving technical problems related to the class lectures and reading material. Completion of the homework will benefit the students, particularly in their technical skills and problem solving. These will account for 25% of the overall grade.
 
 In additional to homework, a sequence of projects will also be assigned. Student project topics may be selected depending on the student's research interests and goals. These will account for 55% of the overall grade.
 
