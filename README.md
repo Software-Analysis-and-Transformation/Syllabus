@@ -6,10 +6,10 @@
 Field | Value
 ----- | -----
 **Instructor:** | [Raffi Khatchadourian](http://www.cs.hunter.cuny.edu/~Raffi.Khatchadourian99) 
-**Office:** | 4410
+**Office:** | 4327
 **Email:** | [rkhatchadourian@gc.cuny.edu](mailto:rkhatchadourian@gc.cuny.edu)
 **Phone:** | (212) 817-8190
-**Office hour:** | W 2:00-3:00 pm or [by appointment](http://khatchad.setmore.com)
+**Office hour:** | W 10:00-11:00 am or [by appointment](http://khatchad.setmore.com)
 **Semester:** | Spring 2018
 **Section:** | 38732
 
