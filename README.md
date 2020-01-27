@@ -65,9 +65,9 @@ The topics may include but are not limited to:
 - refactoring
 - object-oriented software design patterns
 
-## Suggested prerequisites
+## Suggested Previous Courses
 
-- excellent programming skills in an object-oriented programming language such as C++ or Java.
+- Excellent programming skills in an object-oriented programming language such as C++ or Java.
 - CSc 71010 (Programming Languages) or equivalent or an introductory course on compilers would be useful. Otherwise, students may review the first two chapters of *Compilers: Principles, Techniques and Tools* by Aho, Sethi and Ullman. However, previous experience in software analysis will not be assumed.
 
 ## Learning Objectives
